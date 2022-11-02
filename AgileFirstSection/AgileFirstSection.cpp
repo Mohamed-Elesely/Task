@@ -18,7 +18,7 @@ int main()
 	}
 	else
 	{
-		cout << "Welcome yabo elshbaba ";
+		cout << "Welcome yabo elshbab ";
 	}
 
 }
